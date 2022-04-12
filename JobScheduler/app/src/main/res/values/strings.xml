@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ADF8.3JobScheduler</string>
+    <string name="content_title_text">Job Service</string>
+    <string name="content_text_text">Your Job is running!</string>
+    <string name="network_type_text">Network Type Required:</string>
+    <string name="no_text">None</string>
+    <string name="any_text">Any</string>
+    <string name="wifi_text">Wifi</string>
+    <string name="schedule_job_text">Schedule Job</string>
+    <string name="cancel_job_text">Cancel Job</string>
+    <string name="device_idle_text">Device Idle</string>
+    <string name="device_charging_text">Device Charging</string>
+    <string name="seekbar_label_text">Override Deadline</string>
+    <string name="seekbar_progress_text">Not Set</string>
+</resources>
